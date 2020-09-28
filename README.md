@@ -25,4 +25,4 @@
 ![activity](http://github.zhangqx.com/data/github/Barbra0613/CS_StudyNoteSystem?type=activity)
 
 ### 项目目的
-分享计算机类基础知识，包括刷图算法、操作系统等常见的计算机知识以及成员的学习日记的分享
+分享计算机类基础知识，包括刷图算法、操作系统等常见的计算机知识以及成员的学习日记的分享。
